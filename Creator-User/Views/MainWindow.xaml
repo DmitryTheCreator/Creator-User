@@ -1,0 +1,19 @@
+﻿<Window x:Class="Creator_User.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Creator_User"
+        mc:Ignorable="d"
+        Title="Задача «Производитель-Потребитель»"
+        Height="450" Width="800">
+    <Border>
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#3F72AF" Offset="0.15"/>
+                <GradientStop Color="#00ADB5" Offset="1"/>
+            </LinearGradientBrush>
+        </Border.Background>
+    </Border>
+  
+</Window>
